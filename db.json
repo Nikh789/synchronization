@@ -10,7 +10,7 @@
      {"OrderID": 536368, "StockCode": "84409E", "Product": "FELTCRAFT PRINCESS CHARLOTTE DOLL", "Category": "Props", "UnitPrice": 185},
      {"OrderID": 536362, "StockCode": "85132g", "Product": "BOX OF 6 ASSORTED COLOUR TEASPOONS", "Category": "Utensils", "UnitPrice": 185},
      {"OrderID": 536360, "StockCode": "85143F", "Product": "HOME BUILDING BLOCK WORD", "Category": "Props", "UnitPrice": 210}
-    ]
+    ],
     
     "PO2": [
      {"OrderID": 536365, "StockCode": "85123A", "Product": "WHITE HANGING HEART T-LIGHT HOLDER", "Category": "Furniture", "UnitPrice": 255},
