@@ -9,6 +9,6 @@
      {"OrderID": 536357, "StockCode": "85123A", "Product": "ASSORTED COLOUR BIRD ORNAMENT", "OrderDate": "25-07-2022", "Category": "Props", "UnitPrice": 425},
      {"OrderID": 536368, "StockCode": "84409E", "Product": "FELTCRAFT PRINCESS CHARLOTTE DOLL", "OrderDate": "23-07-2022", "Category": "Props", "UnitPrice": 185},
      {"OrderID": 536362, "StockCode": "85132g", "Product": "BOX OF 6 ASSORTED COLOUR TEASPOONS", "OrderDate": "14-08-2022", "Category": "Utensils", "UnitPrice": 185},
-     {"OrderID": 536360, "StockCode": "85143F", "Product": "HOME BUILDING BLOCK WORD", "OrderDate": "5-08-2022", "Category": "Furniture", "Props": 210}
+     {"OrderID": 536360, "StockCode": "85143F", "Product": "HOME BUILDING BLOCK WORD", "OrderDate": "5-08-2022", "Category": "Props", "UnitPrice": 210}
     ]
 } 
